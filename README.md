@@ -7,18 +7,6 @@ A **clean, responsive, and interactive front-end UI** for a social media platfor
 
 ---
 
-## 🔥 Live Preview
-
-> [🔗 Click here to view the live project](#) *(Replace with your GitHub Pages link once deployed)*
-
----
-
-## 📸 Screenshots
-
-<img src="images/preview.png" alt="Social Book Preview" width="800"/>
-
----
-
 ## ✨ Features
 
 - ✅ **Fully responsive layout** using Flexbox & media queries  
