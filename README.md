@@ -47,10 +47,13 @@ social-book/
 
 **Hareesh Reddy**  
 💻 First-Year CS&IT Student @ KL University  
-📬 [Connect on LinkedIn](https://www.linkedin.com) *(add your link)*  
-📫 hareesh@example.com *(optional)*
+📬 [Connect on LinkedIn]https://www.linkedin.com/in/hareesh-reddy-gurrala-75b229345
+📫 hareeshreddy916@gmail.com 
 
 ---
+
+*****
+Live Link : https://social-book-ecru.vercel.app/
 
 ## 🧪 How to Use
 
